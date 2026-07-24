@@ -7,3 +7,5 @@
 第二卷第二号：[ZiLapTopOS 13改名ZacOS 13 Ventra Beta](第二卷第二号.md)
 
 第二卷第三号：[Zizhou AI在美国通过审核](第二卷第三号.md)
+
+第二卷第四号：[第二卷第四号](第二卷第四号.md）
